@@ -1,0 +1,12 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "* Официальные гайды от ZkSync era : https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html и https://era.zksync.io/docs/api/hardhat/getting-started.html#learn-more\r * Кран Goerli: https://goerlifaucet.com/ ;\r * Натсройка тестовой сети ZkSync: https://era.zksync.io/docs/dev/troubleshooting/important-links.html ;\r * Бридж для перевода в тестовую сеть zksync era : https://portal.zksync.io/bridge ;\r * Эксплорер для проверки контракта и транзакций : https://goerli.explorer.zksync.io/ ;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
